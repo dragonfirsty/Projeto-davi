@@ -1,17 +1,40 @@
-# tela_rpg
+# 🎲 Construtor de RPG
 
-A new Flutter project.
+Aplicativo Flutter para criar fichas de personagens de RPG de forma rápida e simples.
 
-## Getting Started
+## 📖 Sobre o projeto
 
-This project is a starting point for a Flutter application.
+O app permite cadastrar um personagem com nome, classe, nível e atributos (Força, Destreza e Constituição), gerar a ficha do personagem e rolar a iniciativa (d20) diretamente pelo app.
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Funcionalidades
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Criação de personagem com nome, classe e nível
+- Cadastro dos atributos: Força, Destreza e Constituição
+- Geração da ficha do personagem
+- Rolagem de dado de 20 lados (d20) para iniciativa
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tecnologias utilizadas
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+
+## 📱 Como executar
+
+1. Clone o repositório:
+```bash
+   git clone https://github.com/dragonfirsty/Projeto-davi.git
+```
+2. Acesse a pasta do projeto:
+```bash
+   cd Projeto-davi
+```
+3. Instale as dependências:
+```bash
+   flutter pub get
+```
+4. Execute o app:
+```bash
+   flutter run
+```
+
+## 📂 Estrutura do projeto
