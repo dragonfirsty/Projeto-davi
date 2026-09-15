@@ -38,3 +38,17 @@ O app permite cadastrar um personagem com nome, classe, nível e atributos (For�
 ```
 
 ## 📂 Estrutura do projeto
+lib/
+├── main.dart # Ponto de entrada do app
+├── tela_dados_rpg.dart # Tela de criação do personagem
+└── tela_rpg.dart # Tela da ficha do personagem
+
+
+## 🛠️ Requisitos
+
+- Flutter SDK instalado
+- Dart SDK ^3.13.3
+
+## 📄 Licença
+
+Este projeto está disponível para fins de estudo e aprendizado.
